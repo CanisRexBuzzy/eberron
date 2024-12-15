@@ -9,3 +9,5 @@ If you're one of my players, I hope this if beneficial for keeping you up to par
 
 > [!info] In My Eberron
 > Please keep an eye out for the In My Eberron callouts, they'll help you to know which information has sprung from my own mind, or in collaboration with others. Where possible, these individuals will be referenced. I'll also use these boxes to remark on when it has come from Keith Baker, the mastermind behind Eberron.
+
+As such, this site will continue to grow and expand as these very player facing notes become more self-evident and available. If you find a benefit to them, please let me know!
