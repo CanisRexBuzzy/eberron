@@ -5,4 +5,4 @@ tags:
   - Nation/Breland
 ---
  
-Breland is the most south-westerly of the Five Nations, and is bordered by the [[Mournlands]], [[Zilargo]], [[Droaam]], [[Darguun]], [[Aundair]], the [[Eldeen Reaches]] and [[Thrane]].
+Breland is the most south-westerly of the Five Nations, and is bordered by the [[Mournlands]], [[Zilargo]], [[Droaam]], [[Darguun]], [[Aundair 1]], the [[Eldeen Reaches]] and [[Thrane]].
