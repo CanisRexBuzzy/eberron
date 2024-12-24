@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-GB",
     baseUrl: "canisrexbuzzy.github.io/eberron",
-    ignorePatterns: ["private", "templates", ".obsidian", "Clippings", "DM"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Clippings", "dungeon-master"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
